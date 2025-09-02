@@ -1,0 +1,19 @@
+[project]
+name = "ai-subtitles-translator"
+version = "0.0.1"
+authors = [
+  { name="Poly SOK", email="polykos@gmail.com" },
+]
+description = "Subtitles Translator is a tool for easily translating subtitle files (.srt) into different languages."
+readme = "README.md"
+requires-python = ">=3.13"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/polysok/ai-subtitles-translator"
+Issues = "https://github.com/polysok/ai-subtitles-translator/issues"
